@@ -20,7 +20,7 @@
     ![screenshot_04](https://user-images.githubusercontent.com/13026209/72253784-e5cf7880-3634-11ea-9528-4098ecadcc28.png)
 
 
-  5. Paste the [pre-request script](example-signature-node.js).
+  5. Paste the [pre-request script](https://github.com/flipay/flipay-official-api-docs/blob/master/example-signature-node.js).
     ![screenshot_05](https://user-images.githubusercontent.com/13026209/72253785-e6680f00-3634-11ea-8405-b1d0a6b61869.png)
 
   6. Send the request. If everything is fine, you will get the result live below:
